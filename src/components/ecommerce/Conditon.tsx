@@ -28,6 +28,7 @@ export default function ConditionChart() {
       labels: data.map(item => `${item.label} (${item.count})`)
     };
   }, []);
+ 
 
   const options: ApexOptions = {
     chart: {

@@ -29,10 +29,10 @@ export default function Home() {
 
         <div className="col-span-6 xl:col-span-6">
           <MonthlyTarget />
-          <Condition />
         </div>
 
-        <div className="col-span-12 xl:col-span-5">
+        <div className="col-span-6 xl:col-span-6">
+          <Condition />
           {/* <DemographicCard /> */}
         </div>
 
