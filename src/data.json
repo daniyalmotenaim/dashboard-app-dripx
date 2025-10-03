@@ -1,0 +1,457 @@
+{
+  "most_common_sizes": {
+    "38": 13,
+    "40": 10,
+    "39": 7,
+    "42.5": 5,
+    "41": 5,
+    "44": 4,
+    "46": 4,
+    "36.5": 4,
+    "36": 4,
+    "38.5": 3,
+    "37.5": 3,
+    "43": 3,
+    "37": 2,
+    "-": 2,
+    "46.5": 1,
+    "40 2/3": 1,
+    "41.6": 1,
+    "47.5": 1,
+    "35.5": 1,
+    "40.5": 1,
+    "45.5": 1,
+    "nan": 1,
+    "44 2/3": 1
+  },
+  "by_condition": {
+    
+    "5.0": [
+        {
+            "Name": "Nike Air Zoom",
+            "Size": "46.5",
+            "Condition": 5.0,
+            "Colour": "-",
+            "Description": null
+        }
+    ],
+    "6.0": [
+        {
+            "Name": "Sketchers Go Run",
+            "Size": "45.5",
+            "Condition": 6.0,
+            "Colour": "Blue/Grey",
+            "Description": null
+        }
+    ],
+    "7.0": [
+        {
+            "Name": "Nike Blazer",
+            "Size": "-",
+            "Condition": 7.0,
+            "Colour": "White/Maroon",
+            "Description": null
+        },
+        {
+            "Name": "Vans Old Skool",
+            "Size": "38",
+            "Condition": 7.0,
+            "Colour": "Light Blue Black",
+            "Description": null
+        },
+        {
+            "Name": "Saucony Vegan",
+            "Size": "41",
+            "Condition": 7.0,
+            "Colour": "Orange Grey",
+            "Description": null
+        },
+        {
+            "Name": "Nike Vintage Jordantik",
+            "Size": "39",
+            "Condition": 7.0,
+            "Colour": "Grey",
+            "Description": null
+        },
+        {
+            "Name": "Vans",
+            "Size": "38",
+            "Condition": 7.0,
+            "Colour": "Red",
+            "Description": null
+        }
+    ],
+    "7.5": [
+        {
+            "Name": "Nike Air Force 1 Low",
+            "Size": "38.5",
+            "Condition": 7.5,
+            "Colour": "White",
+            "Description": null
+        }
+    ],
+    "8.0": [
+        {
+            "Name": "Stan Smith Adidas",
+            "Size": "36",
+            "Condition": 8.0,
+            "Colour": "Green/White",
+            "Description": null
+        },
+        {
+            "Name": "Nike Air MAX",
+            "Size": "40",
+            "Condition": 8.0,
+            "Colour": "Black",
+            "Description": null
+        },
+        {
+            "Name": "Nike Court Borough",
+            "Size": "36.5",
+            "Condition": 8.0,
+            "Colour": "White/Red",
+            "Description": null
+        },
+        {
+            "Name": "Nike Air Max Eoin",
+            "Size": "44",
+            "Condition": 8.0,
+            "Colour": "Black",
+            "Description": null
+        },
+        {
+            "Name": "Adidas ZX Flux",
+            "Size": "44 2/3",
+            "Condition": 8.0,
+            "Colour": "Red/Black",
+            "Description": null
+        },
+        {
+            "Name": "Nike Court",
+            "Size": "36.5",
+            "Condition": 8.0,
+            "Colour": "White",
+            "Description": null
+        },
+        {
+            "Name": "Adidas Stella Sport",
+            "Size": "40 2/3",
+            "Condition": 8.0,
+            "Colour": "Rungreen/Nova",
+            "Description": null
+        },
+        {
+            "Name": "Puma Rebound",
+            "Size": "40",
+            "Condition": 8.0,
+            "Colour": "White/Black/Red",
+            "Description": null
+        },
+        {
+            "Name": "Tredsafe",
+            "Size": "41",
+            "Condition": 8.0,
+            "Colour": "Black",
+            "Description": null
+        },
+        {
+            "Name": "Nike Court Vision",
+            "Size": "37.5",
+            "Condition": 8.0,
+            "Colour": "White",
+            "Description": null
+        },
+        {
+            "Name": "Marc Fisher",
+            "Size": "40",
+            "Condition": 8.0,
+            "Colour": "Brown",
+            "Description": null
+        },
+        {
+            "Name": "Reebok Classic",
+            "Size": "39",
+            "Condition": 8.0,
+            "Colour": "White",
+            "Description": null
+        },
+        {
+            "Name": "Newbalance",
+            "Size": "44",
+            "Condition": 8.0,
+            "Colour": "Black",
+            "Description": null
+        },
+        {
+            "Name": "Asics Gel Ultano",
+            "Size": "44",
+            "Condition": 8.0,
+            "Colour": "Blue Black Silver",
+            "Description": null
+        },
+        {
+            "Name": "Nike AirMax Bella",
+            "Size": "38",
+            "Condition": 8.0,
+            "Colour": "Pink Yellow",
+            "Description": null
+        },
+        {
+            "Name": "Air Jordan Retro",
+            "Size": "39",
+            "Condition": 8.5,
+            "Colour": "Pink",
+            "Description": null
+        },
+        {
+            "Name": "Vans Hightops",
+            "Size": "38",
+            "Condition": 8.0,
+            "Colour": "Caramel",
+            "Description": null
+        },
+        {
+            "Name": "Converse Allstar",
+            "Size": "40",
+            "Condition": 8.0,
+            "Colour": "Black",
+            "Description": null
+        },
+        {
+            "Name": "Newbalance Fuelcore",
+            "Size": "41",
+            "Condition": 8.0,
+            "Colour": "White",
+            "Description": null
+        },
+        {
+            "Name": "Puma Dynamo",
+            "Size": "42.5",
+            "Condition": 8.0,
+            "Colour": "Blue",
+            "Description": null
+        },
+        {
+            "Name": "Nike Airfil",
+            "Size": "38",
+            "Condition": 8.0,
+            "Colour": "White",
+            "Description": null
+        }
+    ],
+     "10.0": [
+      "Fila Whites",
+      "Adidas Duramo 9",
+      "Black Vans 2",
+      "Tommy Hilfiger",
+      "Reebok Classic",
+      "Nike Livestrong Yellow",
+      "New Balance",
+      "Reebok Classic",
+      "Puma White",
+      "Vionic",
+      "New Balance 574LV",
+      "Brooks Adrenaline GTS",
+      "Nike Tanjun",
+      "Puma Cali",
+      "Nike Air Soft Comfort",
+      "Puma Women Vicky",
+      "Brooks Adrenaline GTS",
+      "C9 Champion",
+      "Newbalance 840",
+      "Puma Women",
+      "Newbalance Roav",
+      "Vans Old Skool"
+    ],
+    "9.0": [
+      "Nike Air Pink",
+      "Dr Scholl",
+      "Nike Air Pegasus",
+      "Skechers Afterburn",
+      "Reebok Walking",
+      "Nike Court Borough",
+      "Nike Quest 4",
+      "Vans Old Skool",
+      "Nike Green",
+      "Baby Guess",
+      "Newbalance mr247",
+      "Nike Roshe",
+      "Sketchers Sport",
+      "Adidas Superstar",
+      "Nike Air Huarache",
+      "Converse Allstar",
+      "Nike AirMax Interlock",
+      "Vans Hightops",
+      "Fila Disruptor",
+      "Nike Air 1 AF",
+      "Nike Downshifter",
+      "Vans Old Skool",
+      "Hoff Womens",
+      "Athletic Works"
+    ]
+
+  },
+  "by_brand": {
+    "Nike": [
+      "Nike Air MAX",
+      "Nike Air Pink",
+      "Nike Court Borough",
+      "Nike Air Zoom",
+      "Nike Air Max Eoin",
+      "Nike Livestrong Yellow",
+      "Nike Court",
+      "Nike Air Pegasus",
+      "Nike Blazer",
+      "Nike Tanjun",
+      "Nike Air Soft Comfort",
+      "Nike Court Vision",
+      "Nike Air Force 1 Low",
+      "Nike Quest 4",
+      "Nike Green",
+      "Nike Airmax Excee",
+      "Nike Roshe",
+      "Nike AirMax Bella",
+      "Nike Air Huarache",
+      "Nike AirMax Interlock",
+      "Nike Vintage Jordantik",
+      "Nike Air 1 AF",
+      "Nike Downshifter",
+      "Nike Airfil"
+    ],
+    "Adidas": [
+      "Stan Smith Adidas",
+      "Stan Smith Adidas",
+      "Adidas Duramo 9",
+      "Adidas ZX Flux",
+      "Adidas Stella Sport",
+      "Adidas Superstar"
+    ],
+    "Reebok": [
+      "Reebok Classic",
+      "Reebok Classic",
+      "Reebok Walking",
+      "Reebok Classic"
+    ],
+    "Puma": [
+      "Puma White",
+      "Puma Rebound",
+      "Puma Cali",
+      "Puma Women Vicky",
+      "Puma Women",
+      "Puma Dynamo"
+    ],
+    "Vans": [
+      "Black Vans 2",
+      "Vans Old Skool",
+      "Vans Old Skool",
+      "Vans Hightops",
+      "Vans Hightops",
+      "Vans Old Skool",
+      "Vans Old Skool",
+      "Vans"
+    ],
+    "New Balance": [
+      "New Balance",
+      "New Balance 574LV",
+      "Newbalance 840",
+      "Newbalance",
+      "Newbalance mr247",
+      "Newbalance Roav",
+      "Newbalance Fuelcore"
+    ],
+    "Fila": [
+      "Fila Whites",
+      "Fila Disruptor"
+    ],
+    "Skechers": [
+      "Skechers Afterburn",
+      "Sketchers Go Run",
+      "Sketchers Sport"
+    ],
+    "Brooks": [
+      "Brooks Adrenaline GTS",
+      "Brooks Adrenaline GTS"
+    ],
+    "Converse": [
+      "Converse Allstar",
+      "Converse Allstar"
+    ],
+    "Asics": [
+      "Asics Gel Contend",
+      "Asics Gel Ultano"
+    ],
+    "Jordan": [
+      "Air Jordan Retro"
+    ],
+    "Saucony": [
+      "Saucony Vegan"
+    ],
+    "Tommy Hilfiger": [
+      "Tommy Hilfiger"
+    ],
+    "Dr Scholl": [
+      "Dr Scholl"
+    ],
+    "Vionic": [
+      "Vionic"
+    ],
+    "Champion": [
+      "C9 Champion"
+    ],
+    "Marc Fisher": [
+      "Marc Fisher"
+    ],
+    "Hoff": [
+      "Hoff Womens"
+    ],
+    "Athletic Works": [
+      "Athletic Works"
+    ],
+    "Guess": [
+      "Baby Guess"
+    ]
+  },
+
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Update Inventory System",
+      "detail": "Implement new inventory tracking features for shoe sizes and brands",
+      "assignedTo": "John Smith",
+      "dueDate": "2025-10-15",
+      "status": "in-progress"
+    },
+    {
+      "id": 2,
+      "name": "Create Sales Report",
+      "detail": "Generate monthly sales analysis for top-selling shoe brands",
+      "assignedTo": "Sarah Johnson",
+      "dueDate": "2025-10-10",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "name": "Customer Survey",
+      "detail": "Conduct customer satisfaction survey for recent purchases",
+      "assignedTo": "Mike Wilson",
+      "dueDate": "2025-10-20",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "name": "Website Maintenance",
+      "detail": "Update product images and descriptions on the e-commerce platform",
+      "assignedTo": "Emma Davis",
+      "dueDate": "2025-10-05",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "name": "Supplier Meeting",
+      "detail": "Quarterly review meeting with major shoe suppliers",
+      "assignedTo": "Alex Turner",
+      "dueDate": "2025-10-25",
+      "status": "not-started"
+    }
+  ]
+}
